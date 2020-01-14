@@ -108,11 +108,9 @@ p {
 .btn:hover {
     background-color: rgba(0, 0, 0, 0.336);
 }
-.logo {
-     position: relative;
-    color: white;
-    font-family: 'Montserrat';
-    font-size: 26px;
+.log {
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
 }
 .white {
     color: white;
@@ -177,7 +175,7 @@ p {
     .middle {
         display: inline-block;
     }
-    .logo {
+    .log {
         margin-bottom: 30px;
     }
     .hero {
