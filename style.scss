@@ -31,7 +31,7 @@ html, body {
     column-gap: 2rem;
 }
 .photo {
-    background-image: url(annie-spratt-hX_hf2lPpUU-unsplash.jpg);
+    // background-image: url(annie-spratt-hX_hf2lPpUU-unsplash.jpg);
     background-size: cover;
     width: 300px;
     height: 400px;
@@ -108,10 +108,11 @@ p {
 .btn:hover {
     background-color: rgba(0, 0, 0, 0.336);
 }
-#log {
+
+.logo {
     color: white;
-    font-size: 36px;
-    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-family: "Montserrat";
 }
 .white {
     color: white;
